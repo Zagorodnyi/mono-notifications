@@ -1,6 +1,6 @@
 {
-  "name": "monobank-notifications",
-  "version": "1.0.0",
+  "name": "mono-notifications",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "type": "module",
